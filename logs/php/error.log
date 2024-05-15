@@ -1,0 +1,2 @@
+[09-May-2024 15:26:14 UTC] Erro de evento de reagendamento do cron para o gancho: litespeed_task_imgoptm_pull, código de erro: invalid_schedule, mensagem de erro: Agendamento do evento não existe., dados: {"schedule":"litespeed_filter","args":[],"interval":60}
+[09-May-2024 15:26:14 UTC] Erro de evento de reagendamento do cron para o gancho: litespeed_task_lqip, código de erro: invalid_schedule, mensagem de erro: Agendamento do evento não existe., dados: {"schedule":"litespeed_filter","args":[],"interval":60}
